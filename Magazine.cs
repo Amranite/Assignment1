@@ -8,5 +8,6 @@ namespace Assignment1
 {
 	internal class Magazine
 	{
+		public Magazine() { }
 	}
 }
