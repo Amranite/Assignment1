@@ -24,10 +24,9 @@ namespace Assignment1
 			Price = price;
 		}
 
-		public void BasicInputMethod()
+		public void Read()
 		{
-            Console.Write("Write Something:");
-			string input = Console.ReadLine();
+            Console.Write("Reading...");
 		}
 
 		public override string ToString()
