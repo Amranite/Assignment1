@@ -52,4 +52,3 @@ Selling subscriptions for magazines should also be an option.
 ## Events
 
 - When a book is ordered, trigger an event with a simple message confirming the order.
-- 
