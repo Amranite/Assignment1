@@ -13,13 +13,13 @@ Selling subscriptions for magazines should also be an option.
      - `Price`
    - Fundamental Methods:
      - Constructor
-     - Overloaded `ToString`
+     - Overriding `ToString`
      - Basic input method: `Read`
 
 2. **Derived Class: Magazine**
    - Additional Property:
      - `PublicationPeriod`: Daily, Weekly, Monthly (use an enumeration)
-   - Provide overloads for the base methods.
+   - Provide method overrides for the base class methods.
 
 ### Testing
 - Create two books and two magazines.
